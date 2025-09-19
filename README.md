@@ -4,13 +4,13 @@ Created by: **Grecia Osorio**
 
 A static webpage, using Vite + React, to display an event calendar for my sister. The calendar displays events- color coded, time, and date.
 
-Time spent: **1** spent in total.
+Time spent: **1** hour spent in total.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/event-calendar-coffee-crawl-2MTuQzd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/event-calendar-coffee-crawl-2MTuQzd.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/)
