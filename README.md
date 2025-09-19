@@ -8,12 +8,10 @@ Time spent: **1** hour spent in total.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's is an image of the final product:
 
-<img src="https://imgur.com/a/event-calendar-coffee-crawl-2MTuQzd.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="800" height="545" alt="Screenshot 2025-09-19 005743" src="https://github.com/user-attachments/assets/3ad248bb-9149-45ea-97f8-62c6f2f21940" />
 
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/)
 
 ## License
 
