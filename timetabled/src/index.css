@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Noto+Serif+Hentaigana:wght@200..900&display=swap');
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+}
+
+h1 {
+  font-family: "Noto Serif Hentaigana", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  word-spacing: -6px;
+}
+
+h3 {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  padding-bottom: 8px;
+}
+
+.row {
+  display : flex;
+  align-items : center;
+  justify-content : center;
+  margin-bottom: 20px;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.box {
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+  margin-right : 5px;
+}
+
+span{
+  padding-right: 15px;
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+  border:1px solid #6b77f9;
+  background-color: #4f5effb0;
+}
+
+td {
+  padding: 5px;
+  border:1px solid #7a85ff98;
+}
+
+table{
+  border-collapse:collapse;
+  border:1px solid #7a85ff98;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.time {
+  height: 40px;
+}
+
+.Event {
+  width: 100px;
+}
+
+.Event h6, h5 {
+  line-height: 0px;
+  align-content: center;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  word-wrap: normal;
+}
+
+.Event h5{
+  font-weight: bold;
+}
+
+.pink {
+  background: pink;
+}
+
+.blue {
+  background: rgb(190, 219, 229);
+}
+
+.green {
+  background: rgb(202, 245, 222);
+} 
