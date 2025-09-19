@@ -1,10 +1,10 @@
-# Event Calendar - Static Page
+# Event Calendar - Local Coffee Crawl
 
 Created by: **Grecia Osorio**
 
 A static webpage, using Vite + React, to display an event calendar for my sister. The calendar displays events- color coded, time, and date.
 
-Time spent: **1** hour spent in total.
+Time spent: **2** hour spent in total.
 
 ## Video Walkthrough
 
